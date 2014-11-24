@@ -1,4 +1,4 @@
 dm
 ==
 
-ZF ecommerce application
+ecommerce application
