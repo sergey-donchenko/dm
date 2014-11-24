@@ -1,0 +1,11 @@
+{
+    "name": "donchenko/dealmaker.local",
+    "authors": [
+        {
+            "name": "Sergey Donchenko",
+            "email": "sergey.donchenko@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
